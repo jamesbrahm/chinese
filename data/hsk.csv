@@ -525,7 +525,7 @@ HSK Set;Number;Character;Pinyin;Meaning
 2;24;边;biān;side
 2;25;变;biàn;change
 2;26;变成;biàn chéng;"become; change into"
-2;27;遍;biàn;Times
+2;27;遍;biàn;measure word for times
 2;28;表;biǎo;watch
 2;29;表示;biǎoshì;Express
 2;30;不错;bú cuò;"not bad; pretty good"
@@ -837,8 +837,8 @@ HSK Set;Number;Character;Pinyin;Meaning
 2;336;蓝;lán;blue
 2;337;蓝色;lán sè;blue
 2;338;篮球;lán qiú;basketball
-2;339;老（副）;lǎo;"always; constantly"
-2;340;老（老王）;lǎo （ lǎo wáng ）;noun prefix (Lao Wang)
+2;339;老（副词）;lǎo;"always; constantly (adverb)"
+2;340;老（老王）;lǎo ;noun prefix (Lao Wang)
 2;341;老年;lǎo nián;elderly
 2;342;老朋友;lǎo péng yǒu;old friend
 2;343;老是;lǎo shì;"always; all times"
@@ -1019,7 +1019,7 @@ HSK Set;Number;Character;Pinyin;Meaning
 2;518;太阳;tàiyáng;sun
 2;519;态度;tàidu;attitude
 2;520;讨论;tǎolùn;discuss
-2;521;套;tào;set
+2;521;套;tào;measure word for sets of things
 2;522;特别;tèbié;Especially
 2;523;特点;tèdiǎn;Characteristic
 2;524;疼;téng;hurt
@@ -1100,7 +1100,7 @@ HSK Set;Number;Character;Pinyin;Meaning
 2;599;向;xiàng;towards
 2;600;相机;xiàng jī;camera
 2;601;像（动）;xiàng;"be like; resemble; look like; such as"
-2;602;小（小王）;xiǎo （ xiǎo wáng ）;prefix (Xiao Wang)
+2;602;小（小王）;xiǎo;prefix for small, (Xiao Wang)
 2;603;小声;xiǎo shēng;"in a low voice; in whispers"
 2;604;小时候;xiǎo shí hou;"in one’s childhood; when one was young"
 2;605;小说;xiǎoshuō;Novel
